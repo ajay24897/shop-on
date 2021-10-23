@@ -1,0 +1,21 @@
+:root {
+  --blue: #009dff;
+  --darkGrey: #888888;
+}
+
+.input {
+  /* width: 100%; */
+  padding: 10px 0;
+  margin: 5px 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid var(--darkGrey);
+  outline: none;
+  background: transparent;
+  transition: 0.5s;
+  font-size: 18px;
+}
+.input:focus {
+  border-bottom: 1px solid var(--blue);
+}
