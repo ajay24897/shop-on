@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shop-on/static/css/main.08f7407d.chunk.css",
+    "main.js": "/shop-on/static/js/main.6155070d.chunk.js",
+    "main.js.map": "/shop-on/static/js/main.6155070d.chunk.js.map",
+    "runtime-main.js": "/shop-on/static/js/runtime-main.c6b13b4d.js",
+    "runtime-main.js.map": "/shop-on/static/js/runtime-main.c6b13b4d.js.map",
+    "static/css/2.218361df.chunk.css": "/shop-on/static/css/2.218361df.chunk.css",
+    "static/js/2.48ac988b.chunk.js": "/shop-on/static/js/2.48ac988b.chunk.js",
+    "static/js/2.48ac988b.chunk.js.map": "/shop-on/static/js/2.48ac988b.chunk.js.map",
+    "static/js/3.789c45c8.chunk.js": "/shop-on/static/js/3.789c45c8.chunk.js",
+    "static/js/3.789c45c8.chunk.js.map": "/shop-on/static/js/3.789c45c8.chunk.js.map",
+    "index.html": "/shop-on/index.html",
+    "static/css/2.218361df.chunk.css.map": "/shop-on/static/css/2.218361df.chunk.css.map",
+    "static/css/main.08f7407d.chunk.css.map": "/shop-on/static/css/main.08f7407d.chunk.css.map",
+    "static/js/2.48ac988b.chunk.js.LICENSE.txt": "/shop-on/static/js/2.48ac988b.chunk.js.LICENSE.txt",
+    "static/media/air-force-1-banner.8b983843.jpeg": "/shop-on/static/media/air-force-1-banner.8b983843.jpeg",
+    "static/media/banner-watch-seri4.4e793d50.jpeg": "/shop-on/static/media/banner-watch-seri4.4e793d50.jpeg",
+    "static/media/facebook.43e2b6f2.svg": "/shop-on/static/media/facebook.43e2b6f2.svg",
+    "static/media/icons8-gmail.e1bc2ceb.svg": "/shop-on/static/media/icons8-gmail.e1bc2ceb.svg",
+    "static/media/icons8-instagram.8ff7ce92.svg": "/shop-on/static/media/icons8-instagram.8ff7ce92.svg",
+    "static/media/icons8-twitter-circled.b16c02d4.svg": "/shop-on/static/media/icons8-twitter-circled.b16c02d4.svg",
+    "static/media/linkedin.d670df15.svg": "/shop-on/static/media/linkedin.d670df15.svg",
+    "static/media/men shope.f10cb8ab.webp": "/shop-on/static/media/men shope.f10cb8ab.webp",
+    "static/media/nmd.25e6449c.jpeg": "/shop-on/static/media/nmd.25e6449c.jpeg",
+    "static/media/women shope.3c48f2cd.png": "/shop-on/static/media/women shope.3c48f2cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6b13b4d.js",
+    "static/css/2.218361df.chunk.css",
+    "static/js/2.48ac988b.chunk.js",
+    "static/css/main.08f7407d.chunk.css",
+    "static/js/main.6155070d.chunk.js"
+  ]
+}
