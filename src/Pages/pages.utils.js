@@ -46,7 +46,9 @@ export const getProductFullInfo = ({
         >
           Buy Now
         </button>
-        <button className="button-cart">Add To Cart</button>
+        <button className="button-cart" onClick={() => addIntoCart(id)}>
+          Add To Cart
+        </button>
       </div>
     </div>
   );
@@ -143,4 +145,17 @@ export const getProductsFlexUI = (product, index, history, route) => {
       {getProductShortInfo(product.brand, product.name, product.retailPrice)}
     </div>
   );
+};
+
+const addIntoCart = (id) => {
+  console.log(id);
+  const products = JSON.parse(localStorage.getItem("cartItem"));
+  if (Array.isArray(products)) {
+    products.push(id);
+    localStorage.setItem("cartItem", JSON.stringify(products));
+  } else {
+    let product = [];
+    product.push(id);
+    localStorage.setItem("cartItem", JSON.stringify(product));
+  }
 };

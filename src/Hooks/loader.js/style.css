@@ -25,13 +25,14 @@
     transform: rotate(90deg);
   }
 } */
-span {
+/* span {
   width: 30px;
   height: 30px;
   border-radius: 50%;
   transition: all 0.5s;
   margin-right: 10px;
-}
+  background-color: red;
+} */
 .orange1 {
   background-color: #e74c3c;
   animation: loader 1s infinite;
